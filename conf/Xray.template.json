@@ -30,7 +30,7 @@
                 "decryption": "none"
             },
             "streamSettings": {
-                "network": "ws",
+                "network": "tcp",
                 "security": "none",
                 "wsSettings": {
                     "acceptProxyProtocol": false,
@@ -54,7 +54,7 @@
                 "disableInsecureEncryption": false
             },
             "streamSettings": {
-                "network": "ws",
+                "network": "tcp",
                 "security": "none",
                 "wsSettings": {
                     "acceptProxyProtocol": false,
